@@ -1,7 +1,7 @@
 # 🎵 Top 50 Spotify Songs Visualization
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](project/images/dashboard-preview.png)
 
 ---
 
