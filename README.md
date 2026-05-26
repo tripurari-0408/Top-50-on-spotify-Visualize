@@ -1,4 +1,9 @@
 # 🎵 Top 50 Spotify Songs Visualization
+## 📸 Dashboard Preview
+
+![Dashboard Preview](images/dashboard-preview.png)
+
+---
 
 ## 📌 Project Overview
 This project analyzes the Top 50 Spotify songs dataset using data visualization techniques.
@@ -30,12 +35,6 @@ Dataset contains:
 - release_date
 - is_explicit
 - album_cover_url
-
----
-
-## 📸 Dashboard Preview
-
-![Dashboard Preview](images/dashboard-preview.png)
 
 ---
 
